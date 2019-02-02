@@ -57,20 +57,13 @@ For the best viewing experience, press F for fullscreen.
 @css[template-note](We recommend using the *SPACE* key to navigate between slides.)
 
 
-+++?image=template/img/SFR/RootsOfReason.png
-
++++?image=template/img/SFR/RootsOfReason.png&size=contain&color=000000
 @title[Tip! Acts of Human Intelect]
-
 <br>
 
-@snap[south-west template-note text-gray]
+@snap[south-west template-note text-red]
 Three Roots of Human Perception and Response 
 @snapend
-
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
-
-
 
 ---?include=template/md/split-screen/PITCHME.md
 
