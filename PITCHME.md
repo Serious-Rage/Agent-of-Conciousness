@@ -57,7 +57,7 @@ For the best viewing experience, press F for fullscreen.
 @css[template-note](We recommend using the *SPACE* key to navigate between slides.)
 
 
-+++?image=template/img/SFR/RootsOfReason.png&position=left&size=contain&color=linear-gradient(to bottom, #4d4848, #000000)
++++?image=template/img/SFR/RootsOfReason.png&position=left&size=100% 100%&color=linear-gradient(to bottom, #4d4848, #000000)
 @title[Tip! Acts of Human Intelect]
 
 
