@@ -64,8 +64,11 @@ For the best viewing experience, press F for fullscreen.
 +++?color=linear-gradient(to bottom, #4d4848, #000000)
 
 @title[Tip! Simple Apprehension]
-## @color[north red](Simple Apprehension)
+@snap[north]
+# @color[red](Simple Apprehension)
 <br>
+@snapend
+
 @snap[south-west list-content-concise span-100 text-blue]
 @ol[ list-bullets-white](false)
 - Sensing Familiarity
