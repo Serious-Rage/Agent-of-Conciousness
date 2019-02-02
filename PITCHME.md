@@ -78,9 +78,9 @@ For the best viewing experience, press F for fullscreen.
 - measure self control
 - assessment of signification
 @ulend
+@snapend
 
-
----?video=https://youtu.be/1xlOtk1UhtA
+---?video=https://www.youtube.com/embed/1xlOtk1UhtA
 
 
 ---?include=template/md/split-screen/PITCHME.md
