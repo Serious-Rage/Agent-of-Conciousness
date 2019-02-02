@@ -65,7 +65,7 @@ For the best viewing experience, press F for fullscreen.
 
 @title[Tip! Simple Apprehension]
 @snap[north]
-# @color[red](Simple Apprehension)
+### @color[red](Simple Apprehension)
 <br>
 @snapend
 
