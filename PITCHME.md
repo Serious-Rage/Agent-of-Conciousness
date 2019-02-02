@@ -49,14 +49,30 @@ Reuse the *markdown snippet* for any slide in this template within your own @css
 @snapend
 
 ---?color=linear-gradient(to bottom, #4d4848, #000000)
-@title[Tip! Fullscreen]
+
+@title[Tip! The Cross and Raven]
 ![TIP](template/img/SFR/cross-of-nails-353_X429.jpg)
 <br>
 For the best viewing experience, press F for fullscreen.
 @css[template-note](We recommend using the *SPACE* key to navigate between slides.)
 
----?include=template/md/split-screen/PITCHME.md
 
++++?image=template/img/SFR/RootsOfReason.png
+
+@title[Tip! Acts of Human Intelect]
+
+<br>
+
+@snap[south-west template-note text-gray]
+Three Roots of Human Perception and Response 
+@snapend
+
+For the best viewing experience, press F for fullscreen.
+@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
+
+
+
+---?include=template/md/split-screen/PITCHME.md
 
 @title[Seriously]
 ![TIP](template/img/tip.png)
