@@ -59,11 +59,26 @@ For the best viewing experience, press F for fullscreen.
 
 +++?image=template/img/SFR/RootsOfReason.png&size=contain&color=linear-gradient(to bottom, #4d4848, #000000)
 @title[Tip! Acts of Human Intelect]
-<br>
 
-@snap[south-west template-note text-red]
-Three Roots of Human Perception and Response 
-@snapend
+
++++?color=linear-gradient(to bottom, #4d4848, #000000)
+
+@title[Tip! Simple Apprehension]
+
+## @color[red](Pre-Mental<br>Pre-Cognative - Perception Impulse  )
+<br>
+@snap[south-west list-content-concise span-100]
+@ol[list-bullets-white](false)
+- Sensing Familiarity
+- pshycho-sematic biological reflexes
+- assessment of self assuredness
+- assessment of stakes urgency
+- measure self control
+- assessment of signification
+@olend
+
+
+
 
 ---?include=template/md/split-screen/PITCHME.md
 
