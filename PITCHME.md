@@ -64,20 +64,20 @@ For the best viewing experience, press F for fullscreen.
 +++?color=linear-gradient(to bottom, #4d4848, #000000)
 
 @title[Tip! Simple Apprehension]
-@snap[north]
+@snap[north-west]
 ### @color[red](Simple Apprehension)
 <br>
 @snapend
 
 @snap[south-west list-content-concise span-100 text-blue]
-@ol[ list-bullets-white](false)
+@ul[ list-bullets-circles](false)
 - Sensing Familiarity
-- pshycho-sematic biological reflexes
+- pshycho-sematic biological reflex
 - assessment of self assuredness
 - assessment of stakes urgency
 - measure self control
 - assessment of signification
-@olend
+@ulend
 
 
 
