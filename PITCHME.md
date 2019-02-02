@@ -81,7 +81,7 @@ For the best viewing experience, press F for fullscreen.
 
 ---?include=template/md/media/windowPain/PITCHME.md
 
-template\md\media\windowPain\PITCHME,md
+
 ---?include=template/md/split-screen/PITCHME.md
 
 @title[Seriously]
