@@ -64,11 +64,10 @@ For the best viewing experience, press F for fullscreen.
 +++?color=linear-gradient(to bottom, #4d4848, #000000)
 
 @title[Tip! Simple Apprehension]
-
-## @color[red](Pre-Mental<br>Pre-Cognative - Perception Impulse  )
+## @color[red](Simple Apprehension)
 <br>
 @snap[south-west list-content-concise span-100]
-@ol[list-bullets-white](false)
+@ol[list-bullets-blue](false)
 - Sensing Familiarity
 - pshycho-sematic biological reflexes
 - assessment of self assuredness
