@@ -85,7 +85,7 @@ For the best viewing experience, press F for fullscreen.
 +++?color=black
 
 @snap[north-west span-35]
-@box[bg-black text-white demo-box-pad](TREE ACTS OF INTELLECT#)
+@box[bg-black text-blue demo-box-pad]( - THREE ACTS OF INTELLECT# Human Behavior )
 @snapend
 
 @snap[north-east span-35]
