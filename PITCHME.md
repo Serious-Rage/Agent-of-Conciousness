@@ -86,7 +86,7 @@ For the best viewing experience, press F for fullscreen.
 
 @snap[north-west span-38]
 <br><br>
-@box[bg-black text-blue demo-box-pad]( #THREE ACTS OF <br>INTELLECT<br> )
+@box[bg-black text-white demo-box-pad]( # THREE <br> ACTS OF <br> INTELLECT <br> )
 @snapend
 
 @snap[north-east span-35]
