@@ -85,6 +85,7 @@ For the best viewing experience, press F for fullscreen.
 +++?color=black
 
 @snap[north-west span-35]
+<br><br>
 @box[bg-black text-blue demo-box-pad]( - THREE ACTS OF INTELLECT# Human Behavior )
 @snapend
 
