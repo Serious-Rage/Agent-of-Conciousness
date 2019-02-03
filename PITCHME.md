@@ -82,6 +82,42 @@ For the best viewing experience, press F for fullscreen.
 
 ---?video=https://www.youtube.com/embed/1xlOtk1UhtA
 
++++?color=black
+
+@snap[north-west span-35]
+@box[bg-gray text-black demo-box-pad](THE THREE ACTS OF INTELLECT#Lorem ipsum dolor sit amet eiusmod)
+@snapend
+
+@snap[north-east span-35]
+@box[bg-blue text-white rounded demo-box-pad](1. SIMPLE APPREHENSION#A pre-cognative sense experience where an initial recognition or catagorical awareness is experienced)
+@snapend
+
+@snap[south-east span-35]
+@box[bg-blue text-white demo-box-pad](2. JUDGEMENT#Cognative and emotional assesment of ones position regarding a matter)
+@snapend
+
+@snap[south-west span-35]
+@box[bg-blue text-white waved demo-box-pad](3. REASON#Mental effort to employ logical inferance and deductive rational comparison)
+@snapend
+
+@snap[midpoint]
+@fa[refresh fa-3x]
+@snapend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---?include=template/md/split-screen/PITCHME.md
 
