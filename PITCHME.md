@@ -85,11 +85,11 @@ For the best viewing experience, press F for fullscreen.
 +++?color=black
 
 @snap[north-west span-35]
-@box[bg-gray text-black demo-box-pad](THE THREE ACTS OF INTELLECT#Lorem ipsum dolor sit amet eiusmod)
+@box[bg-black text-white demo-box-pad](TREE ACTS OF INTELLECT#)
 @snapend
 
 @snap[north-east span-35]
-@box[bg-blue text-white rounded demo-box-pad](1. SIMPLE APPREHENSION#A pre-cognative sense experience where an initial recognition or catagorical awareness is experienced)
+@box[bg-blue text-white rounded demo-box-pad](1. SIMPLE APPREHENSION#A pre-cognative sense experience and catagorical awareness)
 @snapend
 
 @snap[south-east span-35]
@@ -97,7 +97,7 @@ For the best viewing experience, press F for fullscreen.
 @snapend
 
 @snap[south-west span-35]
-@box[bg-blue text-white waved demo-box-pad](3. REASON#Mental effort to employ logical inferance and deductive rational comparison)
+@box[bg-blue text-white waved demo-box-pad](3. REASON#Mindness toward logical inferance and deduction)
 @snapend
 
 @snap[midpoint]
