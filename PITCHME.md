@@ -86,7 +86,10 @@ For the best viewing experience, press F for fullscreen.
 ![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 
----?video=(https://www.youtube.com/embed/mkiDkkdGGAQ)
+
+---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+
+
 
 +++?color=black
 
