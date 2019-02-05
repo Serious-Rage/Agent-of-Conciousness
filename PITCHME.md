@@ -86,7 +86,7 @@ For the best viewing experience, press F for fullscreen.
 ![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 
----?video=https://www.youtube.com/embed/mkiDkkdGGAQ
+---?video=(https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 +++?color=black
 
