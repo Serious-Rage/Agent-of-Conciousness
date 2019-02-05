@@ -80,6 +80,12 @@ For the best viewing experience, press F for fullscreen.
 @ulend
 @snapend
 
+
+---?color=linear-gradient(to right,#CC0000, #000000)
+@title[youtube video1]
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+
+
 ---?video=https://www.youtube.com/embed/1xlOtk1UhtA
 
 +++?color=black
